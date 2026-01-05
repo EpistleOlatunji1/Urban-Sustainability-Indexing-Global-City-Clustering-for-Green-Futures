@@ -1,6 +1,7 @@
 # Urban-Sustainability-Indexing-Global-City-Clustering-for-Green-Futures
 Unsupervised machine learning and geospatial analytics framework for clustering global cities based on sustainability, ESG, infrastructure, and climate-resilience indicators to support smart-city planning and public-policy decision modeling.
-<img width="1187" height="676" alt="Screenshot 2025-12-30 211249" src="https://github.com/user-attachments/assets/7b3b270d-db82-4b49-a6eb-fadcc6a77a35" />
+<img width="1191" height="344" alt="Screenshot 2026-01-04 195906" src="https://github.com/user-attachments/assets/e9f1e0a3-93bd-4db6-b32d-94604d82c1a0" />
+
 
 
 Project Overview
